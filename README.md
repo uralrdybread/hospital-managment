@@ -1,4 +1,4 @@
-This is my first project using Firebase's FireStore for storage. The app when fully completed will be a management portal to add/remove doctors with patients on a schedule. Currently, it only has the ability to add/remove doctors to the cloud. Once a doctor is added to the system the data can be edited or removed fully. The doctors list can also be filtered through.
+The hospital app when fully completed will be a management portal to add/remove doctors with patients on a schedule. Currently, it only has the ability to add/remove doctors to the cloud. Once a doctor is added to the system the data can be edited or removed fully. The doctors list can also be filtered through.
 
 ![register doctor](https://user-images.githubusercontent.com/48900828/207746038-b127a731-3790-43e0-961b-a216c954b11b.PNG)
 
