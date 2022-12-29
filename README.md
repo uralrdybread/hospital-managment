@@ -1,8 +1,27 @@
-The hospital app when fully completed will be a management portal to add/remove doctors with patients on a schedule. Currently, it only has the ability to add/remove doctors to the cloud. Once a doctor is added to the system the data can be edited or removed fully. The doctors list can also be filtered through.
+# Hospital-Management
 
-![register doctor](https://user-images.githubusercontent.com/48900828/207746038-b127a731-3790-43e0-961b-a216c954b11b.PNG)
+The hospital app when fully completed will be a management portal to add/remove doctors 
+with patients on a schedule. Currently, it only has the ability to add/remove 
+doctors to the cloud. Once a doctor is added to the system the data can be edited or 
+removed fully. The doctors list can also be filtered through.
 
-# HospitalManagement
+
+
+
+
+
+## Badges
+
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Material](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+## Documentation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
@@ -29,3 +48,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
